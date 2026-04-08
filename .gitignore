@@ -31,3 +31,9 @@ venv/
 
 # Misc
 *.swp
+.venv/
+.venv_bad/
+newvenv/
+__pycache__/
+*.pyc
+.DS_Store
